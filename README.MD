@@ -1,4 +1,4 @@
-<!--
+
 # 👋 Olá, eu sou o Kauã Silva Valadares
 
 🎓 Estudante de **Sistemas de Informação**  
@@ -40,4 +40,4 @@ Evoluir profissionalmente na área de tecnologia, aprofundar conhecimentos em de
 - LinkedIn: https://www.linkedin.com/in/kau%C3%A3-silva-valadares-76b486303/
 - Instgram : kaua_svg
 
--->
+
