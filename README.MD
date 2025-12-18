@@ -1,10 +1,7 @@
 
-# 👋 Olá, eu sou o Kauã Silva Valadares
-
 🎓 Estudante de **Sistemas de Informação**  
 💼 Atualmente atuo como **Analista de Sistemas com foco em ERP TOTVS Protheus**
 
-## 🚀 Sobre mim
 Sou um profissional em desenvolvimento constante, atuando com análise de sistemas e suporte a processos corporativos, aliado a estudos e projetos voltados ao desenvolvimento de software.
 
 ## 🧠 Conhecimentos Técnicos
@@ -36,7 +33,7 @@ Evoluir profissionalmente na área de tecnologia, aprofundar conhecimentos em de
 ---
 
 📫 **Contato**
-- GitHub: https://github.com/seu-usuario
+- GitHub: https://github.com/Kauasv
 - LinkedIn: https://www.linkedin.com/in/kau%C3%A3-silva-valadares-76b486303/
 - Instgram : kaua_svg
 
